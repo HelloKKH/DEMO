@@ -1,4 +1,4 @@
 DEMO
 ====
 
-I like github [google](heets://www.google.com/)
+I like github [google](https://www.google.com/)
