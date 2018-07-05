@@ -7,8 +7,8 @@ list
 ----
 
 1. fffff
-  + a
-  + b
+    + a
+    + b
 2. ggggg
   + 1
   + 2
